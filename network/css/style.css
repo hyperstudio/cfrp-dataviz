@@ -87,7 +87,7 @@ canvas#sigma_bg_1 {
 
 
 #attributepane .returntext em {
-	background-image: url('../images/sprite.png');
+	background-image: url('/cfrp-dataviz/images/sprite.png');
 	background-repeat: no-repeat;
 	display: block;
 	width: 20px;
@@ -112,7 +112,7 @@ canvas#sigma_bg_1 {
 }
 
 #attributepane .close em {
-background-image: url('../images/sprite.png');
+background-image: url('/cfrp-dataviz/images/sprite.png');
 background-repeat: no-repeat;
 background-position: -11px -13px;
 display: block;
@@ -149,7 +149,7 @@ font-weight:bold;
 
 #attributepane .data .plus {
 background-repeat: no-repeat;
-background-image: url('../images/sprite.png');
+background-image: url('/cfrp-dataviz/images/sprite.png');
 background-position: -171px -122px;
 width: 22px;
 height: 20px;
@@ -173,7 +173,7 @@ font-size:14px;
 }
 
 .left-close {
-background-image: url('../images/fancybox_sprite.png');
+background-image: url('/cfrp-dataviz/images/fancybox_sprite.png');
 margin-left:-37px;
 z-index:99999;
 cursor: pointer;
@@ -196,7 +196,7 @@ font-size:14px;
 #jisc {
 width: 71px;
 height: 56px;
-background-image: url('../images/jisc-logo-small.png');
+background-image: url('/cfrp-dataviz/images/jisc-logo-small.png');
 background-repeat: no-repeat;
 display:inline-block;
 }
@@ -208,7 +208,7 @@ display:inline-block;
 #oii {
 width: 227px;
 height: 56px;
-background-image: url('../images/oii_text.png');
+background-image: url('/cfrp-dataviz/images/oii_text.png');
 background-repeat: no-repeat;
 display:inline-block;
 margin-right:10px;
@@ -283,7 +283,7 @@ color: #000;
 #search .state {
 width: 14px;
 height: 14px;
-background-image: url('../images/sprite.png');
+background-image: url('/cfrp-dataviz/images/sprite.png');
 float: right;
 margin-top: 6px;
 cursor: pointer;
@@ -335,7 +335,7 @@ user-select: none;
 	color: #fff;
 	cursor: pointer;
 	background-color: #999;
-	background-image: url('../images/sprite.png');
+	background-image: url('/cfrp-dataviz/images/sprite.png');
 	background-repeat: no-repeat;
 	background-position: 200px -144px;
 }
@@ -392,7 +392,7 @@ width: 20px;
 height: 20px;
 float: left;
 background-repeat: no-repeat;
-background-image: url('../images/sprite.png');
+background-image: url('/cfrp-dataviz/images/sprite.png');
 }
 
 #legend dl {
@@ -421,7 +421,7 @@ background-position: -51px -122px;
 
 #mainpanel .colours {
 
-background-image:url('../images/rainbow.png');
+background-image:url('/cfrp-dataviz/images/rainbow.png');
 
 }
 #legend .note {
@@ -438,7 +438,7 @@ background-position: -51px -13px;
 }
 
 #mainpanel .moreinformation {
-background: url('../images/info.png');
+background: url('/cfrp-dataviz/images/info.png');
 background-repeat: no-repeat;
 margin-left: 5px;
 }
@@ -487,17 +487,17 @@ display: none;
 }
 
 #zoom .z[rel=center] {
-	background-image: url('../images/zoom_reset.png');
+	background-image: url('/cfrp-dataviz/images/zoom_reset.png');
 	background-position:center;
 }
 
 #zoom .z[rel=in] {
-	background-image: url('../images/zoom_in.png');
+	background-image: url('/cfrp-dataviz/images/zoom_in.png');
 	background-position:center; 
 }
 
 #zoom .z[rel=out] {
-	background-image: url('../images/zoom_out.png');
+	background-image: url('/cfrp-dataviz/images/zoom_out.png');
 	background-position:center; 
 }
 
@@ -527,7 +527,7 @@ margin: 0 0 4px 0;
 #information .button {
 width: 14px;
 height: 14px;
-background-image: url('../images/sprite.png');
+background-image: url('/cfrp-dataviz/images/sprite.png');
 display: inline-block;
 *display: inline;
 *zoom: 1;
@@ -549,7 +549,7 @@ background-position: -131px -122px;
 background-color: #fff;
 padding: 4px 4px 4px 25px;
 cursor: pointer;
-background-image: url('../images/sprite.png');
+background-image: url('/cfrp-dataviz/images/sprite.png');
 background-repeat: no-repeat;
 background-position: -167px -118px;
 position: absolute;
@@ -562,7 +562,7 @@ display: none;
 position: absolute;
 width: 20px;
 height: 16px;
-background-image: url('../images/sprite.png');
+background-image: url('/cfrp-dataviz/images/sprite.png');
 background-repeat: no-repeat;
 background-position: -45px -147px;
 cursor: pointer;
